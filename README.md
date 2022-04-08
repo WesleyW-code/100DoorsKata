@@ -1,7 +1,8 @@
 # 100DoorsKata
 
+I completed the below challenge and added units tests for possible cases using Nunit.Framework!
 
-##Below is the description of the challenge:
+## Below is the description of the challenge:
 
 ### The Kata
 There are 100 doors in a row that are all closed. You make 100 passes through the doors. With each pass you toggle
