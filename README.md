@@ -10,8 +10,7 @@ you visit every 2nd door. On the third pass you visit every 3rd door and so on u
 
 ● The first pass you visit every door and open it.
 ● The second pass you visit only every second door (#2, #4, #6, …) and close them as you visit.
-● The third pass you visit every 3rd door (#3, #6, #9, …) toggling the door’s state.
-      ○ If the door is closed you open it, it if is open you close it.
+● The third pass you visit every 3rd door (#3, #6, #9, …) toggling the door’s state. If the door is closed you open it, it if is open you close it.
 ● Continue until you complete the 100th pass only visiting the 100th door.
 
 After 100 passes what is the state of each door?
