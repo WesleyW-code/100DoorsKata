@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\bin\Debug\net6.0\100DoorsKata.exe
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\bin\Debug\net6.0\100DoorsKata.deps.json
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\bin\Debug\net6.0\100DoorsKata.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\bin\Debug\net6.0\100DoorsKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\bin\Debug\net6.0\100DoorsKata.pdb
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\100DoorsKata.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\100DoorsKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\100DoorsKata.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\100DoorsKata.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\100DoorsKata.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\100DoorsKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\refint\100DoorsKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\100DoorsKata.pdb
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\100DoorsKata.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\100DoorsKata\100DoorsKata\obj\Debug\net6.0\ref\100DoorsKata.dll
