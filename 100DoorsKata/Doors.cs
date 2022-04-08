@@ -4,6 +4,12 @@ namespace HundredDoorsKata;
 
 public class Hundred
 {
+    public static void Main()
+    {
+        
+        Console.WriteLine(DoorManipulator("@@@@@"));
+
+    }
     public static string DoorManipulator(string Doors)
     {
         char[] doors = Doors.ToCharArray();
